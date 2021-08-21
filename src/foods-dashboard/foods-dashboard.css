@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+    margin: 24px;
+}
+
+.left-panel{
+    width: 30%;
+    background-color: #fff;
+    margin-right: 24px;
+    padding: 24px;
+}
+.right-panel{
+    width: 70%;
+    background-color: #fff;
+    padding: 24px;
+}   

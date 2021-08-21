@@ -1,0 +1,23 @@
+.category-li{
+    list-style-type: none;
+    height: 48px;
+    border-bottom: 1px solid #d4d4d4;
+    display: flex;
+    align-items: center;
+    padding-left: 16px;
+}
+.category-ul{
+    padding-inline-start: 0px;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+}
+.heading{
+    display: flex;
+    align-items: center;
+    margin: 0px !important;
+    margin-bottom: 16px !important;
+}
+.highlight{
+    background-color: #5e81f4;    
+    color: #fff;
+}

@@ -1,0 +1,16 @@
+.outerDiv{
+    width: 100%;
+    background-color: aqua;
+    color: black;
+    margin-bottom: 16px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+.count{
+    width: 100px;
+    padding: 0px 24px;
+}
